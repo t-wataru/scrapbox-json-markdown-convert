@@ -1,0 +1,6 @@
+name "scrapboxjsonpeggedmd"
+description "A minimal D application."
+authors "tzmtw"
+copyright "Copyright © 2020, tzmtw"
+license "proprietary"
+dependency "pegged" version="~>0.4.4"
